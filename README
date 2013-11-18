@@ -1,0 +1,37 @@
+Infinite Gaussian Mixture Model
+
+Details:
+
+* Dirichlet Process (Stick-Breaking Representation)
+
+* Variational EM (Truncate variational distribution)
+
+Reference:
+
+Variational Inference for Dirichlet Process Mixtures
+
+David M. Blei, Michael I. Jordan
+
+Bayesian Analysis (2006)
+
+http://www.cs.princeton.edu/~blei/papers/BleiJordan2004.pdf
+
+Jacob's matlab library for Gaussian Dirichlet Process Mixture Models (DPMMs).
+
+Jacob Eisenstein
+
+2012
+
+https://github.com/jacobeisenstein/DPMM/tree/master/vdpmm
+
+Note that the variable names are followed from Blei's paper
+
+To-do:
+
+Truncation-free Stochastic Variational Inference for Bayesian Nonparametric Models
+
+Chong Wang, David M. Blei
+
+NIPS 2012
+
+http://www.cs.cmu.edu/~chongw/papers/WangBlei2012-nips.pdf
